@@ -1,0 +1,11 @@
+{
+    "Administrador" : {
+                        "R" : 1
+    },
+    "Vendedor" : {
+                    "Mario" : 4321,
+                    "Matias" : 4321,
+                    "Leandro" : 4321,
+                    "R" : 1
+    }
+}

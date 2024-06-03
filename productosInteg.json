@@ -1,0 +1,150 @@
+{
+    "01": {
+        "Componentes": {
+            "0101": {
+                "Disco de Almacenamiento": {
+                    "010101": {
+                        "Nombre": "Disco SSD Kingston 120gb",
+                        "Cantidad": 10,
+                        "Precio": 27999.0
+                    },
+                    "010102": {
+                        "Nombre": "Disco Western Digital Nvme 240gb",
+                        "Cantidad": 14,
+                        "Precio": 37980
+                    }
+                }
+            },
+            "0102": {
+                "Fuentes": {
+                    "010201": {
+                        "Nombre": "Fuente Corsair RM850x",
+                        "Cantidad": 12,
+                        "Precio": 276036
+                    },
+                    "010202": {
+                        "Nombre": "Fuente Thermaltake Smart 600w",
+                        "Cantidad": 20,
+                        "Precio": 92999.0
+                    }
+                }
+            },
+            "0103": {
+                "Memorias RAM": {
+                    "010301": {
+                        "Nombre": "Memoria RAM Fury Beast DDR4 8GB",
+                        "Cantidad": 28,
+                        "Precio": 31732
+                    },
+                    "010302": {
+                        "Nombre": "Memoria RAM Vengeance LPX DDR4 8GB",
+                        "Cantidad": 30,
+                        "Precio": 38499
+                    }
+                }
+            },
+            "0104": {
+                "Microprocesador": {
+                    "010401": {
+                        "Nombre": "Micro Amd Ryzen 5 4600g 3.7Ghz",
+                        "Cantidad": 8,
+                        "Precio": 163999
+                    },
+                    "010402": {
+                        "Nombre": "Micro Intel Core i5 10400f 4.3Ghz",
+                        "Cantidad": 8,
+                        "Precio": 165500
+                    }
+                }
+            },
+            "0105": {
+                "Placas Madre": {
+                    "010501": {
+                        "Nombre": "Motherboard Asus Prime H510m Intel 10ma",
+                        "Cantidad": 17,
+                        "Precio": 89999
+                    },
+                    "010502": {
+                        "Nombre": "Motherboard Gigabyte Am4 B450m",
+                        "Cantidad": 17,
+                        "Precio": 110999
+                    }
+                }
+            },
+            "0106": {
+                "Placas de Video": {
+                    "010601": {
+                        "Nombre": "Placa Video Nvidia MSI Ventus RTX2060 OC 8GB",
+                        "Cantidad": 12,
+                        "Precio": 567500
+                    },
+                    "010602": {
+                        "Nombre": "Placa Video Asrock Phantom Gaming Rx6800 16GB",
+                        "Cantidad": 12,
+                        "Precio": 59999
+                    }
+                }
+            }
+        }
+    },
+    "02": {
+        "Perifericos": {
+            "0201": {
+                "Auriculares": {
+                    "020101": {
+                        "Nombre": "JBL Quantum 350 Surround 2.4Ghz",
+                        "Cantidad": 28,
+                        "Precio": 161582
+                    },
+                    "020102": {
+                        "Nombre": "Hyperx Cloud Stinger DTS X sound",
+                        "Cantidad": 30,
+                        "Precio": 112350
+                    }
+                }
+            },
+            "0202": {
+                "Monitor": {
+                    "020201": {
+                        "Nombre": "Monitor curvo Asus TUF Gaming 165Hz 23.6'",
+                        "Cantidad": 10,
+                        "Precio": 361999
+                    },
+                    "020202": {
+                        "Nombre": "Monitor Philips Lcd 75Hz 21.5'",
+                        "Cantidad": 9,
+                        "Precio": 149366
+                    }
+                }
+            },
+            "0203": {
+                "Mouse": {
+                    "020301": {
+                        "Nombre": "Logitech G Series Lightsync G203",
+                        "Cantidad": 40,
+                        "Precio": 34899
+                    },
+                    "020302": {
+                        "Nombre": "Thermaltake Ttesports Neros",
+                        "Cantidad": 37,
+                        "Precio": 17906
+                    }
+                }
+            },
+            "0204": {
+                "Teclado": {
+                    "020401": {
+                        "Nombre": "Rodragon Kumara K552 Outemu Blue",
+                        "Cantidad": 25,
+                        "Precio": 49999
+                    },
+                    "020402": {
+                        "Nombre": "Marvo Kg962 Switch Red Rainbow",
+                        "Cantidad": 15,
+                        "Precio": 35226
+                    }
+                }
+            }
+        }
+    }
+}

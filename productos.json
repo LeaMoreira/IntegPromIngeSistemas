@@ -1,0 +1,106 @@
+{
+    "Componentes": {
+        "Disco de Almacenamiento": {
+            "Disco SSD Kingston 120gb": {
+                "Cantidad": 10,
+                "Precio": 27999.0
+            },
+            "Disco Western Digital Nvme 240gb": {
+                "Cantidad": 14,
+                "Precio": 37980
+            }
+        },
+        "Fuentes": {
+            "Fuente Corsair RM850x": {
+                "Cantidad": 12,
+                "Precio": 276036
+            },
+            "Fuente Thermaltake Smart 600w": {
+                "Cantidad": 20,
+                "Precio": 92999.0
+            }
+        },
+        "Memorias RAM": {
+            "Memoria RAM Fury Beast DDR4 8GB": {
+                "Cantidad": 28,
+                "Precio": 31732
+            },
+            "Memoria RAM Vengeance LPX DDR4 8GB": {
+                "Cantidad": 30,
+                "Precio": 38499
+            }
+        },
+        "Microprocesador": {
+            "Micro Amd Ryzen 5 4600g 3.7Ghz": {
+                "Cantidad": 8,
+                "Precio": 163999
+            },
+            "Micro Intel Core i5 10400f 4.3Ghz": {
+                "Cantidad": 8,
+                "Precio": 165500
+            }
+        },
+        "Placas Madre": {
+            "Motherboard Asus Prime H510m Intel 10ma": {
+                "Cantidad": 17,
+                "Precio": 89999
+            },
+            "Motherboard Gigabyte Am4 B450m": {
+                "Cantidad": 17,
+                "Precio": 110999
+            }
+        },
+        "Placas de Video": {
+            "Placa Video Nvidia MSI Ventus RTX2060 OC 8GB": {
+                "Cantidad": 12,
+                "Precio": 567500
+            },
+            "Placa Video Asrock Phantom Gaming Rx6800 16GB": {
+                "Cantidad": 12,
+                "Precio": 59999
+            }
+        }
+    },
+    "Perifericos": {
+        "Auriculares": {
+            "JBL Quantum 350 Surround 2.4Ghz": {
+                "Cantidad": 28,
+                "Precio": 161582
+            },
+            "Hyperx Cloud Stinger DTS X sound": {
+                "Cantidad": 30,
+                "Precio": 112350
+            }
+        },
+        "Monitor": {
+            "Monitor curvo Asus TUF Gaming 165Hz 23.6'": {
+                "Cantidad": 10,
+                "Precio": 361999
+            },
+            "Monitor Philips Lcd 75Hz 21.5'": {
+                "Cantidad": 9,
+                "Precio": 149366
+            }
+        },
+        "Mouse": {
+            "Logitech G Series Lightsync G203": {
+                "Cantidad": 40,
+                "Precio": 34899
+            },
+            "Thermaltake Ttesports Neros": {
+                "Cantidad": 37,
+                "Precio": 17906
+            }
+        },
+        "Teclado": {
+            "Rodragon Kumara K552 Outemu Blue": {
+                "Cantidad": 25,
+                "Precio": 49999
+            },
+            "Marvo Kg962 Switch Red Rainbow": {
+                "Cantidad": 15,
+                "Precio": 35226
+            }
+        }
+    }
+}
