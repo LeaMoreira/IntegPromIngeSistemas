@@ -1,0 +1,82 @@
+{
+    "Vendedor": {
+        "Mario": {
+            "Numero": {
+                "1": {
+                    "Disco SSD Kingston 120gb": {
+                        "Cantidad": 2,
+                        "Precio": 27999,
+                        "PrecioTotal": 55998
+                    }
+                },
+                "2": {
+                    "Fuente Corsair RM850x": {
+                        "Cantidad": 1,
+                        "Precio": 276036,
+                        "PrecioTotal": 276036
+                    }
+                },
+                "3": {
+                    "Disco Western Digital Nvme 240gb": {
+                        "Cantidad": 2,
+                        "Precio": 37980.0,
+                        "PrecioTotal": 75960.0
+                    }
+                },
+                "4": {
+                    "Disco Western Digital Nvme 240gb": {
+                        "Cantidad": 1,
+                        "Precio": 37980.0,
+                        "PrecioTotal": 37980.0
+                    }
+                }
+            }
+        },
+        "Leandro": {
+            "Numero": {
+                "1": {
+                    "Disco SSD Kingston 120gb": {
+                        "Cantidad": 2,
+                        "Precio": 27999,
+                        "PrecioTotal": 55998
+                    }
+                },
+                "2": {
+                    "Disco Western Digital Nvme 240gb": {
+                        "Cantidad": 2,
+                        "Precio": 37980.0,
+                        "PrecioTotal": 75960.0
+                    }
+                },
+                "3": {
+                    "Memoria RAM Vengeance LPX DDR4 8GB": {
+                        "Cantidad": 3,
+                        "Precio": 38499.0,
+                        "PrecioTotal": 115497.0
+                    }
+                },
+                "4": {
+                    "Disco Western Digital Nvme 240gb": {
+                        "Cantidad": 5,
+                        "Precio": 37980.0,
+                        "PrecioTotal": 189900.0
+                    }
+                },
+                "5": {
+                    "Monitor curvo Asus TUF Gaming 165Hz 23.6'": {
+                        "Cantidad": 1,
+                        "Precio": 361999.0,
+                        "PrecioTotal": 361999.0
+                    }
+                },
+                "6": {
+                    "Disco SSD Kingston 120gb": {
+                        "Cantidad": 2,
+                        "Precio": 27999.0,
+                        "PrecioTotal": 55998.0
+                    }
+                }
+            }
+        }
+    }
+}

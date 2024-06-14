@@ -2,11 +2,11 @@
     "Componentes": {
         "Disco de Almacenamiento": {
             "Disco SSD Kingston 120gb": {
-                "Cantidad": 10,
-                "Precio": 27999.0
+                "Cantidad": 28,
+                "Precio": 27999
             },
             "Disco Western Digital Nvme 240gb": {
-                "Cantidad": 14,
+                "Cantidad": 20,
                 "Precio": 37980
             }
         },
@@ -26,17 +26,17 @@
                 "Precio": 31732
             },
             "Memoria RAM Vengeance LPX DDR4 8GB": {
-                "Cantidad": 30,
+                "Cantidad": 27,
                 "Precio": 38499
             }
         },
         "Microprocesador": {
             "Micro Amd Ryzen 5 4600g 3.7Ghz": {
-                "Cantidad": 8,
+                "Cantidad": 20,
                 "Precio": 163999
             },
             "Micro Intel Core i5 10400f 4.3Ghz": {
-                "Cantidad": 8,
+                "Cantidad": 20,
                 "Precio": 165500
             }
         },
@@ -74,11 +74,11 @@
         },
         "Monitor": {
             "Monitor curvo Asus TUF Gaming 165Hz 23.6'": {
-                "Cantidad": 10,
+                "Cantidad": 9,
                 "Precio": 361999
             },
             "Monitor Philips Lcd 75Hz 21.5'": {
-                "Cantidad": 9,
+                "Cantidad": 12,
                 "Precio": 149366
             }
         },

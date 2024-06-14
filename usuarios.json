@@ -1,11 +1,39 @@
 {
-    "Administrador" : {
-                        "R" : 1
+    "Administrador": {
+        "R": 1
     },
-    "Vendedor" : {
-                    "Mario" : 4321,
-                    "Matias" : 4321,
-                    "Leandro" : 4321,
-                    "R" : 1
+    "Vendedor": {
+        "1": {
+            "Nombre": "Mario",
+            "Apellido": "Roman",
+            "Contrasena": 9632,
+            "DNI": 37535440,
+            "Direccion": "Barrio Nueva Formosa mz, cs",
+            "Telefono": 3704623179
+        },
+        "2": {
+            "Nombre": "Leandro",
+            "Apellido": "Moreira",
+            "Contrasena": 1234,
+            "DNI": 37535440,
+            "Direccion": "Barrio Divino Nino, mz 81 cs11",
+            "Telefono": 3704847501
+        },
+        "3": {
+            "Nombre": "Gustavo",
+            "Apellido": "Traianon",
+            "Contrasena": "6666",
+            "DNI": "40555333",
+            "Direccion": "por aca",
+            "Telefono": "3705868694"
+        }
+    },
+    "Proveedor": {
+        "FullHard": {
+            "Direccion": "Buenos Aires",
+            "Numero Telefono": 1158351522,
+            "Cuit": 20253649884,
+            "Productos": "Teclados"
+        }
     }
 }
