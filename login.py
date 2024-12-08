@@ -2,12 +2,16 @@ import json
 import tkinter
 import ventanaAdministrador
 import ventanaVendedor
+import modAdministrador
+import configuracion
 
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
+from ventanaAdministrador import moduloAdministrador
 from ventanaAdministrador import *
 from ventanaVendedor import moduloVendedor
+from configuracion import *
 
 rutaLogin = "C:/Users/rokha/Desktop/inteProg/usuarios.json"
 with open (rutaLogin, "r") as archivo:

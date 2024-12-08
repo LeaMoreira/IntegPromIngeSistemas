@@ -1,10 +1,12 @@
 import json
 import tkinter
+import modADMAgregar
 
 
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
+from modADMAgregar import listaStock
 
 rutaLogin = "C:/Users/rokha/Desktop/inteProg/usuarios.json"
 with open (rutaLogin, "r") as archivo:

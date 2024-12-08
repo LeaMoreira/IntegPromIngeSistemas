@@ -1,12 +1,16 @@
 import json
 import tkinter
 import modADMAgregar
+import configuracion
 
 
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
+from modADMAgregar import fn_modADMAgregar
 from modADMAgregar import *
+from configuracion import *
+from configuracion import cargarStock
 
 
 rutaLogin = "C:/Users/rokha/Desktop/inteProg/usuarios.json"
